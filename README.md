@@ -1,6 +1,6 @@
 # Angular5-Bootstrap4-Firebase-Demo
 
-1. git clone 
+1. git clone https://github.com/kamranhossain/angular5bootstrap4firebase.git
 2. cd angular5bootstrap4firebase
 3. npm install
 4. npm install --save bootstrap@next
